@@ -1,0 +1,19 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "collection",
+      "queryScope": "COLLECTION_GROUP",
+      "fields": [
+        {
+          "fieldPath": "feld1",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "feld2",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
